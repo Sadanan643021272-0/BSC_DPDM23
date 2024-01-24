@@ -7,3 +7,5 @@ Data Preparation  and Data Mining
 - Homework (แบ่งกลุ่มใหม่ทุกครั้ง)20%
 - Quiz (เดี่ยว ถามในห้อง) 5%
 - Github 5%
+  # HW2
+  -https://drive.google.com/file/d/1AETPinKrZ5O03PsTnkpCUcsWqakSMGvr/view?usp=sharing
