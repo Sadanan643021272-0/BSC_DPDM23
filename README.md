@@ -12,6 +12,6 @@ Data Preparation  and Data Mining
   # HW3
   https://colab.research.google.com/github/Sadanan643021272-0/BSC_DPDM23/blob/main/Classificationmin__impurity_decrease.ipynb
   # HW4
- Disitiontreeกลุ่มแต่งโตมาดแมนหุ่นปานดาราโก้ &ช่วยด้วย.pdf
+  https://github.com/Sadanan643021272-0/BSC_DPDM23/blob/bd65e7ca7cbdd3df9334ed31c06b3b6124821920/Disitiontree%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B9%82%E0%B8%95%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B9%82%E0%B8%81%E0%B9%89%20%26%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2.pdf
   # HW5
   https://drive.google.com/file/d/1wYxjn3ithy0AziEeKWeNIiqIDxLWHB5H/view?usp=drive_link
