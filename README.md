@@ -9,3 +9,5 @@ Data Preparation  and Data Mining
 - Github 5%
   # HW2
   -https://drive.google.com/file/d/1AETPinKrZ5O03PsTnkpCUcsWqakSMGvr/view?usp=sharing
+  # HW3
+  https://colab.research.google.com/github/Sadanan643021272-0/BSC_DPDM23/blob/main/Classificationmin__impurity_decrease.ipynb
