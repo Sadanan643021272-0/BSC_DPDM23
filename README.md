@@ -12,8 +12,8 @@ Data Preparation  and Data Mining
   # HW2
   -https://drive.google.com/file/d/1AETPinKrZ5O03PsTnkpCUcsWqakSMGvr/view?usp=sharing
   # HW3
-  https://colab.research.google.com/github/Sadanan643021272-0/BSC_DPDM23/blob/main/Classificationmin__impurity_decrease.ipynb
+- https://colab.research.google.com/github/Sadanan643021272-0/BSC_DPDM23/blob/main/Classificationmin__impurity_decrease.ipynb
   # HW4
-https://drive.google.com/file/d/1XmaBAV4QfD55B3Uh-AS5DlTNTtXLcTkF/view?usp=drive_link
+- https://drive.google.com/file/d/1XmaBAV4QfD55B3Uh-AS5DlTNTtXLcTkF/view?usp=drive_link
   # HW5
-  https://drive.google.com/file/d/1wYxjn3ithy0AziEeKWeNIiqIDxLWHB5H/view?usp=drive_link
+ - https://drive.google.com/file/d/1wYxjn3ithy0AziEeKWeNIiqIDxLWHB5H/view?usp=drive_link
